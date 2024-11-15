@@ -1,6 +1,5 @@
 import streamlit as st
 import requests
-from streamlit_lottie import st_lottie
 import streamlit as st
 from PIL import Image
 import base64
